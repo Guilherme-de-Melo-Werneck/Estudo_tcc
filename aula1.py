@@ -1,4 +1,8 @@
 import flet as ft
-def main(page: ft.page):
 
-    ft.app(target=main)
+class App:
+    def __init__(self, Page : ft.Page):
+        pass
+
+ft.app(target=App)
+    
