@@ -6,5 +6,4 @@ class App:
 
 ft.app(target=App)
 
-gdgr
     
